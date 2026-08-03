@@ -78,19 +78,19 @@ The dashboard provides insights into sales performance, customer behavior, produ
 ## 📷 Dashboard Preview
 
 ### Executive Dashboard
-![Executive Dashboard](Images/1.png)
+![Executive Dashboard](images/1.png)
 
 ### Customer Analysis
-![Customer Analysis](Images/2.png)
+![Customer Analysis](images/2.png)
 
 ### Sales Analysis
-![Sales Analysis](Images/3.png)
+![Sales Analysis](images/3.png)
 
 ### Product Analysis
-![Product Analysis](Images/4.png)
+![Product Analysis](images/4.png)
 
 ### Delivery Analysis
-![Delivery Analysis](Images/5.png)
+![Delivery Analysis](images/5.png)
 
 ---
 
