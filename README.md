@@ -75,7 +75,7 @@ The dashboard provides insights into sales performance, customer behavior, produ
 
 ---
 
-## 📷 Dashboard Preview
+<-- ## 📷 Dashboard Preview
 
 ### Executive Dashboard
 ![Executive Dashboard](images/1.png)
@@ -91,7 +91,7 @@ The dashboard provides insights into sales performance, customer behavior, produ
 
 ### Delivery Analysis
 ![Delivery Analysis](images/5.png)
-
+--!>
 ---
 
 ## 👩‍💻 Author
